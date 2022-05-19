@@ -1,0 +1,89 @@
+body{
+  background-color: hsl(217, 54%, 11%);
+  font-family: "Outfit";
+}
+a{
+  color: hsl(228, 45%, 44%);
+}
+h3{
+  text-align:left;
+  margin:0 0 0 15px;
+  color: hsl(0, 0%, 100%);
+  font-size: 1rem;
+}
+p{
+  text-align: left;
+  margin-left: 15px;
+  margin-right: 15px;
+  font-size: 0.8rem;
+  color: hsl(215, 51%, 70%);
+}
+hr{
+  /* width: 85%; */
+  border-color: hsl(215, 51%, 70%);
+  margin: 8px 15px;
+  border-width: 1px 0 0 0 ;
+}
+span{
+  color: hsl(0, 0%, 100%);
+}
+.ethereum-color{
+  color: hsl(178, 100%, 50%);
+}
+.bottom-p{
+  display: inline-block;
+  margin-left: 0;
+  position: relative;
+  bottom:3px;
+}
+.bottom-i{
+display: inline-block;
+
+
+}
+.mr{
+  margin-right: 60px;
+}
+.mr-0{
+  margin-right:0;
+}
+.middle-container{
+  display: inline-block;
+}
+.middle-container-right{
+  text-align: right;
+
+}
+.content{
+  background-color: hsl(216, 50%, 16%);
+  text-align: center;
+  width: 250px;
+  height: 440px;
+  margin:80px  auto;
+  border-radius: 4%;
+}
+
+.content-image{
+  width: 220px;
+  height:220px;
+  border-radius: 4%;
+  margin: 15px;
+  text-align:
+
+}
+.image-avatar{
+width: 10%;
+border: 1px solid;
+border-radius: 100%;
+border-color: #fff;
+position: relative;
+right: 8px;
+}
+
+.avatar-p{
+display: inline-block;
+position: relative;
+bottom: 10px;
+right: 15px;
+}
+.attribution { font-size: 11px; text-align: center; }
